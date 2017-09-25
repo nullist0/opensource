@@ -82,7 +82,7 @@
 >
 + 3.2. 라이선스
 >
-> 
+> ![Alt text](http://ieeexplore.ieee.org/ielx5/5599996/5600280/5600285/html/img/5600285-fig-1-large.gif) 
 >
 + 3.3. 비지니스 모델
 >
