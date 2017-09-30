@@ -15,9 +15,9 @@
 
 ### BSD란 무엇인가요?
 
-<div style="text-align:center">
+
 ![Alt text](https://www.freebsd.org/layout/images/logo-red.png "FreeBSD Logo")
-</div>
+
 > FreeBSD 로고
 
  BSD란 Berkeley Software Distribution의 약자로, 미국 캘리포니아 주립대학교 버클리 분교에서 배포한 소프트웨어예요.  
