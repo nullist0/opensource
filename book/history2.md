@@ -1,7 +1,7 @@
 ## 중반
 ### GNU 프로젝트란 무엇인가요?
 
-![GNU Logo](https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Heckert_GNU_white.svg/535px-Heckert_GNU_white.svg.png "GNU Logo"){: width="75%" height="75%"}
+![GNU Logo](https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Heckert_GNU_white.svg/535px-Heckert_GNU_white.svg.png "GNU Logo" =200x200)
 
 > GNU 로고, GNU라는 동물 아이콘
 
