@@ -45,10 +45,6 @@
  이후 BSD유닉스가 발전하는 것과 더불어 유닉스 또한 개별적으로 발전해요. 상업적 이용을 목표로 한 AT&T는 결국 BSD 유닉스에게 법적 소송을 걸어요. 그렇지만, AT&T 또한 저작권 문제로 맞소송을 받게 되었고, BSD 유닉스와 AT&T는 "BSD 유닉스에서 AT&T사의 고유한 코드를 제거하면 유닉스라는 상호를 사용할 수 있도록 한다"라는 내용으로 합의해요. 1989년에 BSD 유닉스는 AT&T의 소스를 모두 제거하고 새로운 라이선스인 BSD 라이선스를 가진채로 AT&T로부터 완전히 벗어나요. 현재에도 4.4BSD와 더불어 NetBSD, FreeBSD, OpenBSD와 같은 운영체제를 오픈 소스로 배포하고 있어요.  
  비록 처음에는 소스 강독으로 시작되었지만 개발과정에서 오픈 소스 개발방법론을 처음으로 사용하고 끝끝내 오픈 소스로 함으로써 오픈 소스 소프트웨어 운동에 적잖은 영향을 주었어요.
 
-### 초기에 자유 소프트웨어 운동에서 기업이 참여하지 않은 이유가 무엇인가요?
-
- 
-
 #### 추가 출처
 - 미국 뉴스 및 의견 웹사이트 : "BSD Unix: Power to the people, from the code", Andrew Leonard, https://www.salon.com/2000/05/16/chapter_2_part_one/
 - GNU 공식 웹사이트 : "GNU 프로젝트", Richard Stallman, http://www.gnu.org/gnu/thegnuproject.ko.html
