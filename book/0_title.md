@@ -4,5 +4,5 @@
 
 소프트웨어학부 blue-07 단팥빵 팀
 
-![title](./images/title.png)
+![title](https://github.com/Lee-Null/opensource/blob/master/book/image/title.png)
 
