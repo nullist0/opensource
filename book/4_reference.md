@@ -10,10 +10,25 @@
 
 ## 사이트
 
->
+> http://www.gnu.org/philosophy/philosophy.html    
+> https://ko.wikipedia.org/wiki/사유_소프트웨어  
+> http://egloos.zum.com/jamestic/v/2489732  
+> https://github.com/ganadist/catb/blob/master/md/01_brief_history.markdown  
+> https://joone.net/2017/01/  
+> https://en.wikipedia.org/wiki/Unix  
+> https://joone.net/tag/unix/  
+> https://en.wikipedia.org/wiki/Open_Letter_to_Hobbyists  
+> https://www.slideshare.net/AndreaTino1/halloween-documents  
+> https://www.ituonline.com/course/linux-unix-certification-training-bundle  
+> https://www.salon.com/2000/05/16/chapter_2_part_one/  
+> http://www.gnu.org/gnu/thegnuproject.ko.html  
+> https://www.freebsd.org  
+> http://www.bloter.net/archives/209318  
+> https://en.wikipedia.org/wiki/Cygnus_Solutions  
+> https://byline.network/2016/04/1-95/  
+> https://www.gnu.org/philosophy/free-software-for-freedom.ko.html  
 
-
-#### 추가 출처
+<!-- #### 추가 출처
 오픈 소스의 철학(GNU 공식 사이트): http://www.gnu.org/philosophy/philosophy.html    
    클로즈드 소스의 정의: https://ko.wikipedia.org/wiki/사유_소프트웨어    
    소프트웨어의 문서를 작성하는 이유: http://egloos.zum.com/jamestic/v/2489732
@@ -51,12 +66,7 @@ https://www.ituonline.com/course/linux-unix-certification-training-bundle
 
 #### 이미지 출처
 - FreeBSD 공식 웹사이트 : https://www.freebsd.org
-
-<!-- 출처 : http://www.bloter.net/archives/209318 -->
-
-<!--
-출처
+http://www.bloter.net/archives/209318
 https://en.wikipedia.org/wiki/Cygnus_Solutions
 https://byline.network/2016/04/1-95/
- -->
- <!--출처 : https://www.gnu.org/philosophy/free-software-for-freedom.ko.html -->
+https://www.gnu.org/philosophy/free-software-for-freedom.ko.html -->
