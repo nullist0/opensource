@@ -1,6 +1,8 @@
 # 연표
 -----
 
+![Alt text](http://imageshack.com/a/img922/4008/IjkxUX.png "연표")
+
 - 1950년대
 > 컴퓨터 초기  
 > IBM에서 쉐어와 유즈가 제작됨.  
