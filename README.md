@@ -19,6 +19,5 @@ book폴더에 들어가서 각 항목을 눌러서 열람해주세요!
 > 자료 출처 - [4_reference.md](https://github.com/Lee-Null/opensource/blob/master/book/4_reference.md)  
 
 - PDF로 보는 방법  
-bin 폴더에 들어가서 pdf로 열람해주세요!  
-
-
+bin 폴더에 들어가서 pdf로 열람해주세요!  
+[PDF 바로가기](https://github.com/Lee-Null/opensource/blob/master/bin/PDFversion.pdf)
